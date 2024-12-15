@@ -1,0 +1,15 @@
+.section1{
+    display: flex;
+}
+
+.section1 div{
+    background-color: aqua;
+    height: 400px;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+.header{
+    background-color: rgb(174, 206, 43);
+}

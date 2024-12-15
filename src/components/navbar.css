@@ -1,0 +1,28 @@
+nav{
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+nav a{
+    margin-right:20px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: none;
+}
+
+nav a.active{
+    font-weight:bold;
+}
+
+.product-nav{
+    background-color: rgb(135, 148, 234);
+    padding: 20px;
+}
+
+.setdata{
+    background-color: aquamarine;
+    margin:10px;
+    padding:20px;
+}
